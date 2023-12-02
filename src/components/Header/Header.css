@@ -16,3 +16,8 @@ nav.header a{
 nav.header a:hover{
     color: orange;
 }
+.btn-color{
+    background-color: aliceblue;
+    color:rgb(238, 147, 29);
+    border-color: 2px red;
+}
